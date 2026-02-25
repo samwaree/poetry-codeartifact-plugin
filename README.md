@@ -1,6 +1,6 @@
 # poetry-codeartifact-plugin
 
-This Poetry plugin automatically refreshes your authorization token when working with CodeArtifact repositories.
+This Poetry plugin automatically refreshes your authorization token when working with CodeArtifact repositories. It's based on the original plugin by Tom Petr, but has been updated to work with Poetry 2.0.
 
 ## Installation
 
